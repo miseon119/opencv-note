@@ -1,14 +1,14 @@
 # OpenCV-Note
 
-## OpenCV Version Check 
+### OpenCV Version Check 
 
-### Python
+**Python**
 ```python
 import cv2
 cv2.__version__
 ```
 
-### C++
+**C++**
 
 In terminal:
 ```console
