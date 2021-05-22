@@ -27,4 +27,4 @@ $ pkg-config --modversion opencv
 |2| [Write Video](./python/write-video.py)|  | |
 |3| [Scale contour](./python/contour/scale-contour.py)| Resize contour, Translating the contour by subtracting the center with all the points | [More detail](https://medium.com/analytics-vidhya/tutorial-how-to-scale-and-rotate-contours-in-opencv-using-python-f48be59c35a2) |
 |4| [Rotate contour](./python/contour/rotate-contour.py)| Convert the points to polar co-ordinates, add the rotation, and convert it back| [More detail](https://medium.com/analytics-vidhya/tutorial-how-to-scale-and-rotate-contours-in-opencv-using-python-f48be59c35a2) | 
-|5| [Draw](./draw.py)| Draw line, rectangle, contour | |
+|5| [Draw](./python/draw.py)| Draw line, rectangle, contour | |
