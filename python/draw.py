@@ -11,3 +11,6 @@ img = cv2.line(img, (50,50), (200, 200), (0,0,255),3)
 
 # draw contour
 cv2.drawContours(drawing, hull, i, color, 1, 8)
+
+# draw text
+cv2.putText(img, 'OpenCV', (10,500), cv2.FONT_HERSHEY_SIMPLEX, 4, (255,255,255), 2)
